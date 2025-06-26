@@ -1,1 +1,2 @@
-# ipa_pack
+# IPA PACK STORE
+クソサイト
